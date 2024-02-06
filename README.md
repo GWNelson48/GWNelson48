@@ -1,0 +1,4 @@
+- 👋 Hi, I’m George
+- 👀 I’m interested in Data Analytics and making video games
+- 🌱 I’m currently learning Godot, Python, and getting more into Tableau
+- ⚡ Fun fact: I've been a Dungeon Master for a live action Dungeons and Dragons show with a lot of audience participation.
